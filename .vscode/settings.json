@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "the book game.sln"
+    "dotnet.defaultSolution": "the-unity-book-game.sln"
 }
