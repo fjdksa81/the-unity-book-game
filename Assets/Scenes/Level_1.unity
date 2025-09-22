@@ -6191,8 +6191,8 @@ Tilemap:
   - first: {x: -9, y: 2, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 4
-      m_TileSpriteIndex: 3
+      m_TileIndex: 12
+      m_TileSpriteIndex: 12
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -9598,7 +9598,7 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: e73e2c10a1502914f8582ac4707814e6, type: 2}
   - m_RefCount: 129
     m_Data: {fileID: 11400000, guid: d7d23d0dc37023c4ba63a0c38029a93b, type: 2}
-  - m_RefCount: 182
+  - m_RefCount: 181
     m_Data: {fileID: 11400000, guid: 675e99581de0c3d42b6af4ef049d10cf, type: 2}
   - m_RefCount: 4
     m_Data: {fileID: 11400000, guid: aa51abc15b9535b4bbbee911ba5c4380, type: 2}
@@ -9614,7 +9614,7 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: 42ed250740efbc74883a5915e4cd2fd8, type: 2}
   - m_RefCount: 74
     m_Data: {fileID: 11400000, guid: 43a2ac8762a08c944a74c0abb5ede309, type: 2}
-  - m_RefCount: 9
+  - m_RefCount: 10
     m_Data: {fileID: 11400000, guid: 4c1863dd9da73764c82e75fd2e84c719, type: 2}
   - m_RefCount: 5
     m_Data: {fileID: 11400000, guid: b90e31b3f0fd7b14ba725100657b2c71, type: 2}
@@ -9653,7 +9653,7 @@ Tilemap:
     m_Data: {fileID: -821927477, guid: e39b237f1ae69d04b9986432f95e137e, type: 3}
   - m_RefCount: 129
     m_Data: {fileID: 797861466, guid: e39b237f1ae69d04b9986432f95e137e, type: 3}
-  - m_RefCount: 182
+  - m_RefCount: 181
     m_Data: {fileID: -1401191403, guid: e39b237f1ae69d04b9986432f95e137e, type: 3}
   - m_RefCount: 4
     m_Data: {fileID: -1846563673, guid: e39b237f1ae69d04b9986432f95e137e, type: 3}
@@ -9671,7 +9671,7 @@ Tilemap:
     m_Data: {fileID: 1137737182644754005, guid: e39b237f1ae69d04b9986432f95e137e, type: 3}
   - m_RefCount: 74
     m_Data: {fileID: 201527594, guid: e39b237f1ae69d04b9986432f95e137e, type: 3}
-  - m_RefCount: 9
+  - m_RefCount: 10
     m_Data: {fileID: -973620774, guid: e39b237f1ae69d04b9986432f95e137e, type: 3}
   - m_RefCount: 1
     m_Data: {fileID: -495612518, guid: e39b237f1ae69d04b9986432f95e137e, type: 3}
