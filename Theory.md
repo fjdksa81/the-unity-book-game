@@ -13,7 +13,7 @@
 
 **Skill Development:** To develop the skills required to create this game, I would do minor research whenever a problem came up I was unable to deal with, otherwise I would use previous knowledge to create the game.
 
-### Project outline
+### Requirements Outline
 
 **Inputs** Majority text and response E.G. Y or N responses through python's interactions.
 
@@ -23,5 +23,11 @@
 
 **Transmission** No transmission will be required.
 
-**Storage** Will include a save system to save the statistics and current progress into a save game.
+**Storage** No storage will be required.
+
+### Functional Requirements
+
+**User Interaction** Users will be able to respond to various randomly placed events during the course of the game and respond with various responses through the keyboard.
+
+**Gameplay/Simulation Mechanics** Users will be able to respond to events given by the game, these will then influence the success of missions, global stats, etc.
 
