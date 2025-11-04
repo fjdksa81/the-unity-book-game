@@ -42,6 +42,13 @@
 
 ## Consideration of Social and Ethical Issues
 
+**Definitions**
+
+*Equity* - Providing equal opportunity to partake through distribution of resources unequally to those disadvantaged. Levelling the playing field.
+
+*Accessability* - The ability for something to be accessed by those with a natural or unnatural disadvantage or advantage, less of a check box and more of a scale.
+
+
 **Accessability** Due to the simplistic nature of the game and the simple keyboard controls, anyone capable of navigating the computer and able to touch the keys will be able to access the game. Those with mental disabilities reducing critical thinking capability may struggle more with the strategic element of the game.
 
 **Privacy and Data Protection** The game will not collect any user data apart from local saves that should be protected by the user's own system, and even then they won't make any use of personal information apart from chosen choices, not sensative information anyway.
