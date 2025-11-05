@@ -4,7 +4,7 @@
 
 ## Identifying the Need
 
-[INSERT GREEN NEEDLE HERE]
+![Brainstorm](Pictures\greenneedle.png)
 
 **Need:** To improve the number of strategic games where the death of soldiers actually matters.
 
@@ -28,7 +28,7 @@
 
 **User Interaction** Users will be able to respond to various randomly placed events during the course of the game and respond with various responses through the keyboard.
 
-**Gameplay/Simulation Mechanics** Users will be able to respond to events given by the game, these will then influence the success of missions, global stats, etc.
+**Gameplay/Simulation Mechanics** Users will be able to respond to events given by the game, these will then influence the success of missions, global stats, etc. This will all go towards a mission at the end of a set number of events/choices/minigames, providing large boosts, advancing the story, or something else.
 
 **Saving and Loading** Users will be able to save and load their current progress, saved on their machine with various variables.
 
@@ -58,3 +58,13 @@
 **Mental and Emotional Wellbeing** The game will be extremely tame, and though minor mental issues concerning the subject matter and personal experiences with war etc. may occur, the graphics or lack thereof should lead to a stable mental experience.
 
 **Cultural Sensitivity** The content of the game will be extremely culturally sensative, and little to no content will be at all of issue with any cultures. Other then reasonably tame depictions of war from the air, there should be no culturally sensative content involved.
+
+## Part II - Researching and Planning
+
+**Flowcharts**
+
+![Event Flow Chart](Pictures\efc.png)
+![Mission Flow Chart](Pictures\mfc.png)
+![Save/Load Flow Chart](Pictures\slfc.png)
+
+**Pseudo Code**
