@@ -129,4 +129,6 @@ END Save/Load
 
 https://docs.google.com/document/d/1xMI0TuB3YCUOMnMEcSkjZbyWeGWk2G-BJfURv_Ofz6w/edit?usp=sharing 
 
+**Gantt Chart**
 
+![Gantt Chart](https://github.com/fjdksa81/the-unity-book-game/blob/main/Pictures/ganttchart.png)
