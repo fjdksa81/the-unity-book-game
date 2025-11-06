@@ -4,7 +4,7 @@
 
 ## Identifying the Need
 
-![Brainstorm](Pictures\greenneedle.png)
+![Brainstorm](https://github.com/fjdksa81/the-unity-book-game/blob/main/Pictures/Greenneedle.png)
 
 **Need:** To improve the number of strategic games where the death of soldiers actually matters.
 
@@ -63,8 +63,70 @@
 
 **Flowcharts**
 
-![Event Flow Chart](Pictures\efc.png)
-![Mission Flow Chart](Pictures\mfc.png)
-![Save/Load Flow Chart](Pictures\slfc.png)
+![Event Flow Chart](https://github.com/fjdksa81/the-unity-book-game/blob/main/Pictures/efc.png)
+![Mission Flow Chart](https://github.com/fjdksa81/the-unity-book-game/blob/main/Pictures/mfc.png)
+![Save/Load Flow Chart](https://github.com/fjdksa81/the-unity-book-game/blob/main/Pictures/slfc.png)
 
 **Pseudo Code**
+
+```
+BEGIN Event 
+
+Show Event Flavor Text and Options
+INPUT Choice
+
+IF Choice == A
+   Show text choice
+   Modify Required Variables
+
+IF Choice == B
+   Show text choice
+   Modify Required Variables
+
+IF Choice == C, D, E Etc.
+   Show text choice
+   Modify Required Variables
+
+END Event
+
+
+BEGIN Mission
+
+Process Base Chance
+Add or Remove Extra Modifyers
+
+IF Result > Required Result
+   Show Success
+   Modify Stats
+
+If Result < Require Result
+   Show failure
+   Modify Stats
+
+END Mission
+
+BEGIN Save/Load
+
+Show save/load screen
+INPUT User Choice
+
+IF User Choice == Save
+   Show Save Slots
+   INPUT Save Slot
+       IF Save Slot == A,B,C,D, ETC.
+         Overwrite save data
+
+IF User Choice == Load
+   Show Save Slots
+   INPUT Save Slot
+       IF Save Slot == A,B,C,D, ETC.
+         Load Save data
+
+END Save/Load
+```
+
+**StoryBoard - Access Should Work**
+
+https://docs.google.com/document/d/1xMI0TuB3YCUOMnMEcSkjZbyWeGWk2G-BJfURv_Ofz6w/edit?usp=sharing 
+
+
